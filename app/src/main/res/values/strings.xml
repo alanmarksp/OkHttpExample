@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">OkHttp Example</string>
+    <string name="repositories_search_button_text">Buscar</string>
+    <string name="github_user_edit_text_hint">Usuario de GitHub</string>
 </resources>
